@@ -182,7 +182,7 @@ input {
 .img2 {
     z-index: 1;
 }
-@mediaquary(min-width:200px){
+@media(min-width:200px){
        .menus{
            display:none;}
 
